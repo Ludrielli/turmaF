@@ -1,10 +1,15 @@
-h1{
+#titulo{
     font-size: 25px;
     color:red;
     text-align: center;
 }
-p{
+.texto{
     font-size: 20px;
-    color: black;
+    color: blue;
+    text-align: center;
+}
+.textoo{
+    font-size: 20px;
+    color: pink;
     text-align: center;
 }
