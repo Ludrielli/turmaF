@@ -1,10 +1,13 @@
-.body{
+.nome{
     background-image: linear-gradient(rgb(172, 172, 221),rgba(0, 0, 255, 0.041));
 }
 #titulo{
     font-size: 25px;
     color:red;
     text-align: center;
+}
+.conteudo{
+    background-image: linear-gradient(rgb(172, 172, 221),rgba(0, 0, 255, 0.041));
 }
 .texto{
     font-size: 20px;
