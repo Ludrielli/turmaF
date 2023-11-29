@@ -9,7 +9,7 @@
 }
 .imagem{
     text-align: center;
-    width: 10%;
+    height: 50%;
 }
 .conteudo{
     background-image: linear-gradient(rgb(71, 71, 122),rgba(120, 120, 231, 0.473));
