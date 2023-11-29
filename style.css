@@ -5,6 +5,7 @@ color: aliceblue;
 border-bottom: 2px solid pink;
 display: flex;
 justify-content: space-around;
+text-align: left;
 }
 .nome{
     background-image: linear-gradient(rgb(172, 172, 221),rgba(0, 0, 255, 0.041));
