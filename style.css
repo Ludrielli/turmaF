@@ -4,7 +4,7 @@ font-size: 30px;
 color: aliceblue;
 border-bottom: 2px solid pink;
 display: flex;
-text-align: right;
+text-align: center;
 }
 .nome{
     background-image: linear-gradient(rgb(172, 172, 221),rgba(0, 0, 255, 0.041));
